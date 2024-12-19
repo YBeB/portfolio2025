@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "title": "Bonjour! Je suis <highlight> Younes </highlight>, développeur front end créatif",
+  "sections": {
+    "languages": "Langages",
+    "frameworks": "Frameworks",
+    "tools": "Outils"
+  },
+  "about": "Passionné par la création d'<highlight>interfaces web modernes </highlight> et <highlight>performantes</highlight>, j'ai récemment obtenu un diplôme équivalent Bac+3/4 en <highlight>Développement React via OpenClassRooms (2025)</highlight>, après avoir validé un <highlight> Bac+2 en Développement Web (2022)</highlight>.<br/><br/> Mon parcours est marqué par des <highlight>expériences variées</highlight>, qui m'ont permis de développer des <highlight>compétences transversales</highlight> comme <highlight>l'adaptabilité</highlight>, <highlight>la gestion de projets</highlight>, et <highlight>une forte capacité d'apprentissage</highlight>. Aujourd'hui, je me consacre pleinement au <highlight>développement front-end</highlight>, avec une <highlight> expertise en React</highlight> et une envie constante d'<highlight>apprendre</highlight> et de relever de <highlight>nouveaux défis</highlight>.",
+  "portfolio": {
+    "languages": "Langages",
+    "frameworks": "Frameworks",
+    "viewProject": "Voir le projet",
+    "argentBank": {
+      "description": "Une application bancaire moderne avec la possibilité de modifié les informations utilisateurs."
+    },
+    "calculatrice": {
+      "description": "Une calculatrice simple pour effectuer des opérations mathématiques."
+    },
+    "sportsee": {
+      "description": "Un tableau de bord pour suivre vos activités sportives."
+    },
+    "fishEye": {
+      "description": "Une galerie photo immersive développée en JavaScript avec la possibilité de like."
+    },
+    "lesPetitsPlats": {
+      "description": "Une application de recherche de recettes rapide et efficace."
+    },
+    "faqaccordion":{
+      "description" : "Faq avec liste rétractable "
+
+
+    }
+
+    
+  },
+  "contact": {
+
+      "subtitle": "N'hésitez pas à me contacter via le formulaire ci-dessous!",
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "message": "Votre Message",
+      "submit": "Envoyer le Message",
+      "thankYou": "Merci!",
+      "confirmation": "Votre message a été envoyé avec succès.",
+      "sendAnother": "Envoyer un autre message",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  
+  
+
+  
+}
+
