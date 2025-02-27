@@ -3,8 +3,7 @@ import SectionWrapper from '../Wrapper/SectionWrapper';
 import { useTranslation } from 'react-i18next';
 import { useState } from 'react';
 import emailjs from 'emailjs-com';
-import { themes } from '../../utils/theme'; // Import de ton thème
-
+import { themes } from '../../utils/theme';
 const Contact = ({ theme }) => {
   const { t } = useTranslation();
 
