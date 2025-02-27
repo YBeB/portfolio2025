@@ -74,6 +74,11 @@ const Skills = ({ theme }) => {
               <img src={Notion} alt="Notion" className="w-16 mx-auto" />
             </div>
           </div>
+
+
+
+
+          
         </ul>
       </div>
     </SectionWrapper>
