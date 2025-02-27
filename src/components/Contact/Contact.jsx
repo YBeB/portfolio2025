@@ -54,7 +54,11 @@ const Contact = ({ theme }) => {
   };
 
   return (
-    <SectionWrapper theme={theme}>
+    <SectionWrapper  theme={theme}>
+
+<div className="h-[80vh] flex flex-col items-center">
+
+
       <h2 className={`text-3xl font-bold mb-6 text-center ${themes[theme].text}`}>
         {t('nav.contact')}
       </h2>
@@ -65,7 +69,7 @@ const Contact = ({ theme }) => {
       {!isSubmitted ? (
         <form
           onSubmit={handleSubmit}
-          className={`w-full max-w-lg mx-auto p-6 rounded-lg shadow-lg ${themes[theme].background} ${themes[theme].text}`}
+          className={`w-full max-w-lg mx-auto p-6 rounded-lg shadow-lg  ${themes[theme].background} ${themes[theme].text}`}
         >
           <div className="mb-4">
             <label htmlFor="name" className={`block text-sm font-bold mb-2 ${themes[theme].text}`}>
@@ -135,6 +139,7 @@ const Contact = ({ theme }) => {
           </button>
         </div>
       )}
+</div>
     </SectionWrapper>
   );
 };
